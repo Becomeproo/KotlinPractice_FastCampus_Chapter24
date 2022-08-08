@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticeKotlin24</string>
+    <string name="products">쇼핑</string>
+    <string name="my">My</string>
+    <string name="empty_products_text">상품 리스트가 존재하지 않습니다.</string>
+    <string name="order">주문하기</string>
+    <string name="empty_my_text">주문한 상품이 없습니다.</string>
+    <string name="need_google_login">구글 로그인이 필요합니다.</string>
+</resources>
